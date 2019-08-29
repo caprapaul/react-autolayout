@@ -12,11 +12,11 @@
     "visual format",
     "auto layout"
   ],
-  "homepage": "https://github.com/fattenap/react-autolayout",
+  "homepage": "https://github.com/caprapaul/react-autolayout",
   "author": "Frank Panetta",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fattenap/react-autolayout.git"
+    "url": "https://github.com/caprapaul/react-autolayout.git"
   },
   "devDependencies": {
     "babel-core": "^5.6.15",
