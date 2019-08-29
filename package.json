@@ -2,9 +2,9 @@
   "name": "react-autolayout",
   "version": "0.1.4-alpha3",
   "description": "Auto layout for React using Apple's Visual Format Language",
-  "main": "./build/react-autolayout.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
   },
   "keywords": [
     "react",
@@ -28,7 +28,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "autolayout": "^0.5.1"
+    "autolayout": "^0.5.1",
+    "i": "^0.3.6",
+    "prop-types": "^15.7.2"
   },
   "peerDependencies": {
     "react": "0.14.0-rc1",
